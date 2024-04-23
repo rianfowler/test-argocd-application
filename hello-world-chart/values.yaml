@@ -12,13 +12,7 @@ service:
   targetPort: 3000
 
 ingress:
-  enabled: true
-  host: "192.168.49.2.nip.io"
-
-service:
-  type: ClusterIP
-  port: 80
-  targetPort: 3000
+  enabled: false
 
 resources: {}
 
