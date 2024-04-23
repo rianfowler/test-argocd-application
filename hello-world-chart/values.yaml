@@ -15,3 +15,5 @@ ingress:
   enabled: false
 
 resources: {}
+
+namespace: hello-world
