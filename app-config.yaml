@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-argocd-application
+  title: test-argocd-application
+  description: cool
+spec:
+  type: website
+  lifecycle: production
