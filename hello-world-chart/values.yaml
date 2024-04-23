@@ -4,7 +4,7 @@ image:
   repository: ghcr.io/rianfowler/test-argocd-application/hello-world
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 'commit-6f4d502'
+  tag: 'commit-aafcc7b'
 
 service:
   type: ClusterIP
