@@ -16,4 +16,4 @@ ingress:
 
 resources: {}
 
-namespace: hello-world
+namespace: dev-hello-world
